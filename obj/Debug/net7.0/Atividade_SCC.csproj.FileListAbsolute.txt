@@ -1,0 +1,14 @@
+C:\Users\Wesley\Documents\Curso programação\SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\Atividade_SCC\bin\Debug\net7.0\Atividade_SCC.exe
+C:\Users\Wesley\Documents\Curso programação\SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\Atividade_SCC\bin\Debug\net7.0\Atividade_SCC.deps.json
+C:\Users\Wesley\Documents\Curso programação\SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\Atividade_SCC\bin\Debug\net7.0\Atividade_SCC.runtimeconfig.json
+C:\Users\Wesley\Documents\Curso programação\SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\Atividade_SCC\bin\Debug\net7.0\Atividade_SCC.dll
+C:\Users\Wesley\Documents\Curso programação\SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\Atividade_SCC\bin\Debug\net7.0\Atividade_SCC.pdb
+C:\Users\Wesley\Documents\Curso programação\SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\Atividade_SCC\obj\Debug\net7.0\Atividade_SCC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley\Documents\Curso programação\SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\Atividade_SCC\obj\Debug\net7.0\Atividade_SCC.AssemblyInfoInputs.cache
+C:\Users\Wesley\Documents\Curso programação\SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\Atividade_SCC\obj\Debug\net7.0\Atividade_SCC.AssemblyInfo.cs
+C:\Users\Wesley\Documents\Curso programação\SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\Atividade_SCC\obj\Debug\net7.0\Atividade_SCC.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Documents\Curso programação\SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\Atividade_SCC\obj\Debug\net7.0\Atividade_SCC.dll
+C:\Users\Wesley\Documents\Curso programação\SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\Atividade_SCC\obj\Debug\net7.0\refint\Atividade_SCC.dll
+C:\Users\Wesley\Documents\Curso programação\SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\Atividade_SCC\obj\Debug\net7.0\Atividade_SCC.pdb
+C:\Users\Wesley\Documents\Curso programação\SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\Atividade_SCC\obj\Debug\net7.0\Atividade_SCC.genruntimeconfig.cache
+C:\Users\Wesley\Documents\Curso programação\SP2 - Atividade 1 - Desenvolvimento de sistema de controle de clientes\Atividade_SCC\obj\Debug\net7.0\ref\Atividade_SCC.dll
